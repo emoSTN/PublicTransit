@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+		android:id="@+id/action_download"
+		android:icon="@drawable/ic_action_download_hl"
+		android:title="@string/action_download"
+		android:showAsAction="ifRoom"  />
+	<item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+		android:showAsAction="ifRoom"
+		android:icon="@drawable/ic_action_overflow_hl">
+    </item>
+    
+</menu>

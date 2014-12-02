@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\EMO\Dropbox\workspace\Android\PublicTransit2\app\build\intermediates\pre-dexed\debug\jsoup-1.8.1-68a2c7e34eae7ae5484b3d7b0aca029d5cd92d71.jar"
+        jar="D:\EMO\Dropbox\workspace\Android\PublicTransit2\app\libs\jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02"/>
+
+</pre-dex-items>

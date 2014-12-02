@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="egged_schedules">http://egged-ruse.com/schedule/</string>
+    <string name="chance99Url">http://chance99.net/</string>
+    <string name="geocommerceUrl">http://geocommerce-ruse.com/</string>
+</resources>
